@@ -9,9 +9,9 @@ Kharcha helps you maintain a record of your weekly expenditures. It extracts inf
 
 <img src="https://user-images.githubusercontent.com/45825805/184033449-a1a6fa39-ab00-4529-ae23-e98245bd44ce.jpg" width="400" height="800">
 
-#### After receiving 2 debit SMSes :  
+<!-- #### After receiving 2 debit SMSes :  
 
-// <img src="https://user-images.githubusercontent.com/45825805/184037941-8b483a92-9974-4e57-ab37-4344c464b70d.jpeg" width="400" height="800">
+ <img src="https://user-images.githubusercontent.com/45825805/184037941-8b483a92-9974-4e57-ab37-4344c464b70d.jpeg" width="400" height="800"> -->
 
 
 #### Front-End : Java7.  Back-End : SQL
