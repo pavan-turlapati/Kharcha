@@ -7,9 +7,9 @@ Kharcha helps you maintain a record of your weekly expenditures. It extracts inf
 * Kharcha keeps a SMS tracker running in the background to detect any kind of debit SMSes, and adds it into your weekly expenditure list! 
 * Presently, Kharcha can detect SMSes from major banks like SBI, ICICI and HDFC! Support for more bank coming soon! 
 
-<img src="https://user-images.githubusercontent.com/45825805/184033449-a1a6fa39-ab00-4529-ae23-e98245bd44ce.jpg" width="400" height="800">
+<!--<img src="https://user-images.githubusercontent.com/45825805/184033449-a1a6fa39-ab00-4529-ae23-e98245bd44ce.jpg" width="400" height="800">
 
-<!-- #### After receiving 2 debit SMSes :  
+ #### After receiving 2 debit SMSes :  
 
  <img src="https://user-images.githubusercontent.com/45825805/184037941-8b483a92-9974-4e57-ab37-4344c464b70d.jpeg" width="400" height="800"> -->
 
